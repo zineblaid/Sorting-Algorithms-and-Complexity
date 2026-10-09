@@ -1,0 +1,8 @@
+*.o
+*.exe
+selection_sort
+bubble_sort
+insertion_sort
+quick_sort
+merge_sort
+comb_sort
